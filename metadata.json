@@ -1,0 +1,7 @@
+{
+  "name": "Turi Apps",
+  "description": "A premium catalogue of modern, AI-powered applications designed by Turi, featuring high-end design and intuitive user experiences.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
